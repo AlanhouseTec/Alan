@@ -1,4 +1,4 @@
-Alan Lucas De Souza\n
+Alan Lucas De Souza
 - HTML
 - CSS
 - Frameworks em geral, embora usei mais o bootsrap
