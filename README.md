@@ -1,4 +1,5 @@
-#Alan Lucas De Souza
+# Alan Lucas De Souza
+<h1 align="center"> Algumas abilidades</h1>
 - HTML: Intermediário/Avançado
 - CSS: basico/Intermediário
 - Frameworks: básico 
